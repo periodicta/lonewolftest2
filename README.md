@@ -1,3 +1,1 @@
 # lonewolftest2
-
-https://discord.com/api/webhooks/1259749712282648576/kQNXZ8tYyoxYvJQdCkwdgLxdwzG9hO3xwDdPLFuGtVtaTA7FFxKPFzJIPsAl-6tytTs8
